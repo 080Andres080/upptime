@@ -42,18 +42,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 418,
-    "timeWeek": 362,
-    "timeMonth": 345,
+    "timeDay": 358,
+    "timeWeek": 354,
+    "timeMonth": 344,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-23": 0
+    }
   },
   {
     "name": "Test Broken",
@@ -72,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-23": 66,
+      "2022-11-23": 1019,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
