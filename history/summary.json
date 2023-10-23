@@ -22,7 +22,7 @@
     "url": "casa.elcriado.es",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "storj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 174,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2023-10-23": 0,
       "2023-10-07": 88,
       "2023-09-05": 496
     }
