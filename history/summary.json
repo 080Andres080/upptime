@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 76,
+    "timeDay": 101,
     "timeWeek": 105,
-    "timeMonth": 146,
+    "timeMonth": 140,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2025-02-02": 16,
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "storj",
     "status": "up",
-    "uptime": "57.24%",
+    "uptime": "57.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.59%",
     "uptimeMonth": "91.12%",
-    "uptimeYear": "40.95%",
+    "uptimeYear": "41.23%",
     "time": 130,
-    "timeDay": 100,
-    "timeWeek": 128,
-    "timeMonth": 123,
+    "timeDay": 135,
+    "timeWeek": 123,
+    "timeMonth": 124,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-04-04": 18,
@@ -256,8 +256,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   }
 ]
