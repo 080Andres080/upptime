@@ -4,17 +4,17 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 119,
-    "timeDay": 66,
-    "timeWeek": 85,
-    "timeMonth": 76,
-    "timeYear": 123,
+    "timeDay": 278,
+    "timeWeek": 135,
+    "timeMonth": 89,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2025-11-02": 25,
       "2025-11-07": 17,
@@ -24,7 +24,8 @@
       "2025-12-13": 31,
       "2025-12-23": 41,
       "2025-12-28": 32,
-      "2026-01-18": 59
+      "2026-01-18": 59,
+      "2026-08-15": 4
     }
   },
   {
@@ -33,7 +34,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "storj",
     "status": "down",
-    "uptime": "39.90%",
+    "uptime": "39.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -44,7 +45,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 62,
+      "2026-08-15": 441,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
