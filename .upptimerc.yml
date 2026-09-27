@@ -7,7 +7,7 @@ sites:
     url: https://www.google.com
   - name: Storj
     check: "tcp-ping"
-    url: casa.elcriado.es
+    url: https://www.google.com
     port: 28967
 
 status-website:
