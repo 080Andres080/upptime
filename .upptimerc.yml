@@ -9,6 +9,8 @@ sites:
     check: "tcp-ping"
     url: https://www.google.com
     port: 28967
+  - name: Hermes360 Admin
+    url: https://vcom360web01.ibermaticacloud.com/hermes360/Admin/Launcher/login
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
